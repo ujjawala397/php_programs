@@ -1,7 +1,7 @@
 <?php
 $con=mysqli_connect('localhost','root','');
-if(mysqli_select_db($con,'form'));
 $sql="SELECT * FROM store";
+
 $records=mysqli_query($con,$sql);
 ?>
 <!DOCTYPE html>

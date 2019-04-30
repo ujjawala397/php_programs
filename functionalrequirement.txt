@@ -1,0 +1,42 @@
+Functional requirements
+############################################################################
+
+3.Discount pannel
+4.Authentication by otp
+5.Diffent payments modes
+6.Truck tracking BY GPS 
+7.Ride Cancelation
+8.Ride feedback
+9.Sharing
+10.Help
+11.Contract policies
+12.Jobs
+13.Announcements
+14.terms and conditions
+15.chat bot
+16.Connector signup
+17.Find labors
+18.For Merchants
+19.how Payments work
+20.All bookings by a particular user
+21.About
+22.contact us
+23.Calculate money
+24.Labour search for job
+25.pay by paytm
+26.pay by gateway
+27.pay by card
+28.
+
+#############################################################################
+NON functional requirements:
+#############################################################################
+Performance – for example:
+1.response time:
+the length of time taken for a person or system to react to a given stimulus or event. 
+2.throughput:
+
+static volumetric
+Serviceability
+Regulatory
+Environmental

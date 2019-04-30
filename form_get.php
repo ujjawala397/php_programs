@@ -7,9 +7,9 @@ if(empty($_GET["name"]))
 else
 {
 	$name = $_GET["name"];
-	if(!preg_match("/^[a-zA-Z]*$/",$name))
+	if(!preg_match("/^[a-zA-Z ]*$/",$name))
 	{	
-		echo "only letters are allowed<br>";
+		echo "only alphabets are allowed<br>";
 	}
 	else
 	{
@@ -49,10 +49,4 @@ else
 		echo $number;
 	}
 }																								
-
-
-
-
-
-
 ?>
