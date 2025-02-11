@@ -9,7 +9,7 @@ $mail->Host = 'smtp.gmail.com';
 $mail->Port = 587;
 $mail->Username= 'ujjawala397@gmail.com';
 
-$mail->Password = '17feb1998';
+$mail->Password = 'pwd';
 $mail->Subject = 'hello';
 $mail->Body = 'mail';
 $mail->addAddress('ujjawala397@gmail.com');
